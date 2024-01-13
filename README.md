@@ -7,4 +7,5 @@ for vrinda store.
 >>Created an comprehencive dashboard in excel featuring:
 >>
   >>>  Interactive Slicers for filtering and exploring data.
+  >>
   >>>	Dynamic charts and graphs to represents sales trends and inventory management.
